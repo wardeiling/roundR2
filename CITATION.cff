@@ -1,0 +1,10 @@
+cff-version: 0.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Eiling"
+  given-names: "Ward Bernd"
+orcid: "https://orcid.org/0009-0007-8114-9497"
+title: "wardeiling/roundR2: Version 0.2.0 - First release"
+doi: "10.5281/zenodo.14674098"
+version: v0.2.0
+date-released: 2025-01-16
