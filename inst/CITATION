@@ -1,0 +1,14 @@
+citHeader("To cite roundR2 in publications use:")
+
+citEntry(
+  entry  = {"Manual"},
+  author = {"Eiling, Ward Bernd"},
+  doi = {"10.5281/zenodo.14674098"},
+  title = {"wardeiling/roundR2: Version 0.2.0 - First release"},
+  version = {"v0.2.0"},
+  year = {"2025"},
+  url = {"https://github.com/wardeiling/roundR2"},
+  textVersion = paste(
+  "Eiling, W. B. (2025). wardeiling/roundR2: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.14674098"
+  )
+)
